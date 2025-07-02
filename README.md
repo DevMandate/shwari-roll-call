@@ -2,10 +2,6 @@
 
 A modern, responsive roll call form for **Shwari Movers & Cleaners**, designed to capture employee attendance and team information accurately and efficiently. This project leverages Google Sheets for backend data storage using Google Apps Script.
 
-## 🚀 Live Demo
-
-[View Form](https://script.google.com/macros/s/AKfycbyQxF1Y0ZrFBpiYnR5GxuubS9BmKeywPIaoqpv6gOya7rWlA3bzB7pFj2dG2XZGlHUvZw/exec)
-
 ---
 
 ## 📌 Features
